@@ -1,5 +1,4 @@
-# React-Shots
-miniprojects and ideas in React
+# ContactsList-React
 
+fetching data and showing some users by react components and props
 
-Each folder is an own app
